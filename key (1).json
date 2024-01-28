@@ -1,13 +1,3 @@
 {
-  "type": "service_account",
-  "project_id": "regal-primacy-409623",
-  "private_key_id": "173f1fc5bf658b742aa4817affc66fd225681e3d",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqlBTCFHfxBXsk\npEtKJhpvGeWhMB/hc/OKV2TIh/y1YbGz5nNtWuO5T0KSNgCsdG8hpu21au6lwP+n\na7Gv+EU78VP7HqbH1t+rWL/KQI7TLQEEEyx8ncuRzxt7A0mXc9+dK+d9iywwPzrl\nsfYguCvxiDF9gw6Au/nn1x+icwla0CG+eCYGTwJpANJ5qwdPPiiNzIQs8EoRLKjU\nGxlRjNVP6dwgwr6ZdZubyBdOKujuYLzOISyemrzmMdo84/tFOzv9pXRJynuaIQg5\nDpCuz08dmO8dkuejbKK3V6btFvz9mrxzmL1opqlfHk7PCb8CaGRhSgYvSwP91Z2F\njzFx9SDDAgMBAAECggEANdSpgF4JQ+yg4f1fLTU9Hlaj2uxfAz0eXEgcLBSOMYd1\nFvrg7l/CgdZ7gby9Fa9g6tPNLHVkfrabd3BLEOdeof4UrKkNpP8wcth9Hgylhgsr\nyOdsIJ+DgK5FU9rDvKH6rZUPZtUmyssJgTdaHxU/+OcsBxn217V6tilzeEapaxjD\nuTRaWi/b4T3Fn9pwtkA7MPxxvYzAyf0QX+44N0YCQCJTjxBN47RpFGSMtQrutguL\nvl8v8oOXAz7/nBt3uXyL0KlGskNcm0B5FyagRc1WV5HBAP3XJPdd6Iwo8b2BJBdu\nZqbEcRjkL5gPSjtQElbxupjS/5diSiF2+S3+JQrg8QKBgQDXXWa0upmmxsJoKSA/\nr9GGyFT7B9eHs9twHX0QSyw1lC48ZXVnYDjUBzmlshFGyZBa0Yp6G2uQmdz0ERD1\nO+bWXx36ZWidVCZI3YAjCxb+8GkChMth1OtUkEus9C1gHK6s3r0NUvPrzaofcU+X\nGVItzEGCYwUm+vjtg63jerrPZwKBgQDKw2W3hXYOdMviVeN5EF+eBKX3+hCil/c0\ncWrc9z+0YL+DsNtaZGhqF6Si2qmdxlFc/K0Y7lVNiO8LBNhlzg+VmxlxxyUbUEoP\nmI7n4OV9pElKtY9Zm4bKTdab82+a7YpeR3tTGoJTtM1YNaovRGxWf4N7ZovmJu8w\n89Tir5i2RQKBgG5vQKlQPlYc+bd7z0OZHrIkrB8FiGnXuqClHmpqgcL/ty3VQPy/\nhKSFB/SFeQJ5fYJ0jLPMt72wiHLHBZEbJGWs5Kxvr9NtQSyAGKLfnu0fzlkySzBh\nhEMasxN/Kn1sd83BceQRM28pSSFSc2Oh4lgFs1nu+MdiTp9MtLA/UOflAoGAb4jA\nYQ0m/Zi9tkjskeGx1yhTa27Ay8+wCccBs37GKiC1+GjGoJhu3z0WMQb7GnDGvNG5\nHeesQLQ8WeFWb9nDtNXWT0HuZXHq611N7rtFQbGnJ1NsASyOHqZmkO59y8kyvd2w\nNux0GDtyYT1T2iBXP9Vwq+aiuf1cwZ6+0dsps8kCgYEAhmAwKaSG1HZqgYNZFlr3\nDwHJOj632u5b3UQS12I8xeY7CKcJFQPZpG+mPDaXy+M+ThNivwtJ8nu0egkLJJba\nxxf8j2JoIGZtCN/R+uD+GFo1bvrOmmkqeXy/irE8P1AQI4Gob+SANKwGZwqq7YqT\nNJr/MavdMT8axQ2L7CSnW5s=\n-----END PRIVATE KEY-----\n",
-  "client_email": "text2speech@regal-primacy-409623.iam.gserviceaccount.com",
-  "client_id": "107344202984430223210",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/text2speech%40regal-primacy-409623.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+  Google Cloud API key Here
 }
