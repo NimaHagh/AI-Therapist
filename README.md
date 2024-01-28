@@ -25,4 +25,6 @@ Thrive is an innovative AI Therapist platform designed to provide accessible and
 - Pandas for data manipulation
 
 ## Contributions
-Contributions to Thrive are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
+@MatteoGuidii
+@abhijnam
+
